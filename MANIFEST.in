@@ -1,2 +1,2 @@
 include *.md *.yml .gitignore
-recursive-exclude .git/ *
+recursive-exclude .git *
